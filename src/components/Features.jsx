@@ -6,7 +6,6 @@ import { Suspense, useEffect, useRef } from "react";
 import MacbookModel from "./models/Macbook";
 import { Canvas } from "@react-three/fiber";
 import { Html } from "@react-three/drei";
-import { preload } from "react-dom";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import useMacbookStore from "../store";
