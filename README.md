@@ -8,9 +8,13 @@ An immersive, high-end landing page clone of the Apple MacBook Pro website. This
 
 > **Note:** The front-end rendering can be heavy on resources. If the video or 3D transitions appear slow, it is likely due to the high-resolution assets being processed in real-time!
 
+https://github.com/user-attachments/assets/e4cc9ce7-894e-413b-962f-5bb7aae08917
+
 ---
 
 ## 🛠️ Tech Stack
+
+
 
 This project was built using the following technologies:
 
