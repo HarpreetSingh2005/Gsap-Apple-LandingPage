@@ -1,10 +1,13 @@
-# 🍎 Apple MacBook Pro 3D Landing Page
+# Apple MacBook Pro 3D Landing Page
 
 An immersive, high-end landing page clone of the Apple MacBook Pro website. This project focuses on the intersection of **3D Web Graphics** and **High-Performance Animations**.
 
 ---
+## Live Website
+https://apple-landing-page-replica.vercel.app/
 
-## 🚀 Live Demo & Visuals
+---
+## Live Demo & Visuals
 
 > **Note:** The front-end rendering can be heavy on resources. If the video or 3D transitions appear slow, it is likely due to the high-resolution assets being processed in real-time!
 
@@ -26,7 +29,7 @@ This project was built using the following technologies:
 
 ---
 
-## 🧠 Key Learnings & "Aha!" Moments
+## Key Learnings & "Aha!" Moments
 
 Building this project was a huge step up from standard 2D web development. Here is what I took away:
 
@@ -44,7 +47,7 @@ This was my first time fully committing to using **Git via the Command Line (CMD
 
 ---
 
-## 📥 Installation & Setup
+## Installation & Setup
 
 Want to run this project locally? Follow these steps:
 
